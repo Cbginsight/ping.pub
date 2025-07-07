@@ -9,7 +9,7 @@
     // must be [{"address": "", "provider": ""}]
     "api": [
         {
-            "address": "https://cosmos.api.ping.pub", 
+            "address": osmo149cstl9whzkg6vsf3hpug4mvps87cqzsxcnzkl"https://cosmos.api.ping.pub", 
             "provider": "Ping"
         }
     ], 
